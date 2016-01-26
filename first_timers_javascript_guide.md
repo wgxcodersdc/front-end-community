@@ -215,15 +215,15 @@ Congratulations! Your well on your way to becoming a programmer.
 
 ### Okay, what next?
 
-The only logical next step is to **NOT STOP!** Check out our [learning resources](#) section and continue your journey. All the best and congratulations!
+The only logical next step is to **NOT STOP!** Check out our [learning resources](https://github.com/womenwhocodedc/front-end-community/blob/master/first_timers_javascript_guide.md#resources) section and continue your journey. All the best and congratulations!
 
 Remember, even though we did access your page via a web browser, it's not actually on the Internet! For that you would need to
 [host](http://en.wikipedia.org/wiki/Web_hosting_service) your page online. That's an advanced topic that shouldn't worry about right now!
 
 ### Resources?
 
-* [Front End Hack Night Resource List](#)
-* [Git Guide](#)
+* [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/javascript_study_guide.md)
+* [Front End Resources](https://github.com/womenwhocodedc/front-end-community/blob/master/front_end_guide.md)
 * [Intro to JS](http://nupurkapoor.github.io/js-study-group/#/)
 * [Intro to Git and Github](http://nupurkapoor.github.io/intro-to-git/#/)
 * We use [Slack](https://slack.com/) as our internal chat system! To understand Slack better check out the [Slack guide](https://github.com/womenwhocodedc/organization/blob/master/slack_guide.md).
