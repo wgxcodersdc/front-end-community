@@ -305,13 +305,13 @@ Now that you've built your first web page, use Women Who Code DC's study groups 
 * [Dash](https://dash.generalassemb.ly/)
 * [CodeAcademy HTML & CSS](https://www.codecademy.com/learn/web)
 * [Khan Academy - HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-* [Learn JavaScript](https://github.com/womenwhocodedc/organization/blob/master/learning-resources/front-end-hack-nights/first_timers_javascript_guide.md)
+* [Learn JavaScript](https://github.com/womenwhocodedc/front-end-community/blob/master/first_timers_javascript_guide.md)
 * [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
 #### Front End Study Guides
 * [HTML Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/html_study_guide.md)
-* [CSS Study Guide]()
-* [JavaScript Study Guide]()
+* [CSS Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/CSS_study_guide.md)
+* [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/javascript_study_guide.md)
 
 #### Keep in touch!
 * Come to our [Meetups](http://www.meetup.com/Women-Who-Code-DC/).
