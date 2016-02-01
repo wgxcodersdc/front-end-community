@@ -55,7 +55,7 @@ Let's create a basic HTML file that will eventually host our JavaScript. Open up
 
 Our `index.html` file will be using an external stylesheet called `styles.css`.
 
-![Basic HTML page](https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/BasicHTML.png)
+![Basic HTML page](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/BasicHTML.png)
 
 ### External Stylesheet - `styles.css`
 
@@ -72,7 +72,7 @@ The above CSS sets the background color to #D3D3D3, the hexadecimal value for `l
 
 Refresh your `index.html` page to verify the new styles before moving on to the next steps of the guide.
 
-![Add some CSS](https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/AddSomeCSS.png)
+![Add some CSS](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/AddSomeCSS.png)
 
 ### Adding a button to `index.html`
 
@@ -87,7 +87,7 @@ Add the `button` and `div` elements to the `body` tag of `index.html`, below the
 
 For right now the top secret message is visible, but we will be writing JavaScript code that will display the message only after clicking on the button.
 
-![Add a button](https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/AddButton.png)
+![Add a button](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/AddButton.png)
 
 ### Hiding the message using CSS
 
@@ -99,7 +99,7 @@ Add the following code to `styles.css`. Our `div` element that contains the `p` 
 }
 ```
 
-![Message hidden](https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/MessageHidden.png)
+![Message hidden](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/MessageHidden.png)
 
 ### External JavaScript file - `main.js`
 
@@ -138,7 +138,7 @@ The `script` element is added to the bottom of the page so that the browser can 
 
 Often JavaScript will manipulate HTML elements in the DOM. If the elements do not exist yet (because the DOM tree has not yet been created) then the JavaScript will throw errors.
 
-!(DOM Tree)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/DOM.gif)]
+![DOM Tree](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/DOM.gif)
 
 Diagram courtesy of [w3schools](http://www.w3schools.com/js/js_htmldom.asp).
 
@@ -176,11 +176,11 @@ We can use the JavaScript console in our browser's web development tools to chec
 
 In Google Chrome, type `ctrl + shift + J` (Windows, Linix, or Chromebook) or `cmd + opt + J` (Mac) to open the JavaScript console.
 
-!(Google Chrome JavaScript console)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/ChromeBlankConsole.png)]
+![Google Chrome JavaScript console](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/ChromeBlankConsole.png)
 
 Copy and paste `var text = document.getElementById("text");` into the console window and press enter. You should see the text `undefined` - this is OK. Then type `text` and press enter - this examines the content of the `text` variable. Click on the arrow next to `div` to expand it - you should see the entire `div` element with our top secret element.
 
-!(Div element in Developer Tools)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/DivTextConsole.png)]
+![Div element in Developer Tools](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/DivTextConsole.png)
 
 ### The Document Object
 
@@ -190,7 +190,7 @@ Copy and paste `var text = document.getElementById("text");` into the console wi
 
 If we type `document` into the console we can expand all of the arrows to reveal all of the HTML on `index.html`.
 
-!(Document object in the console)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/DocumentObjectConsole.png)]
+![Document object in the console](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/DocumentObjectConsole.png)
 
 In summary, `document` = all of the HTML elements on a web page.
 
@@ -214,11 +214,11 @@ button.onclick = function() {
 
 An *event handler* waits for an event (such as a mouse click) before executing certain code. In this case we used an `onlick` event handler to then execute a function (`function()`) to change the CSS for the `text` element. It changed the `display` property from `none` to `inline`. 
 
-!(Display changed from none to inline)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/DisplayInlineDevTools.png)]
+![Display changed from none to inline](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/DisplayInlineDevTools.png)
 
 Using the console, we can see that `text.style` is accessing the CSS properties for the `text` variable (our `div` with an ID of `text`). Using `text.style.display` accesses the `display` property in the CSS for `text`.
 
-!(text.style.display in Chrome Dev Tools)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/text-style-display.png)]
+![text.style.display in Chrome Dev Tools](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/text-style-display.png)
 
 ### Functions
 
@@ -288,7 +288,7 @@ function showText() {
 console.log("Ending main.js");
 ```
 
-!(Console logging)[https://github.com/womenwhocodedc/front-end-community/tree/master/assets/js-first-timers-guide/ConsoleLogging.png)]
+![Console logging](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/ConsoleLogging.png)
 
 ### What's next?
 
