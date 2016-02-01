@@ -292,7 +292,7 @@ console.log("Ending main.js");
 
 ### What's next?
 
-Check out our [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/javascript_study_guide.md) for intermediate and advanced resources for mastering JavaScript.
+Check out our [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md) for intermediate and advanced resources for mastering JavaScript.
 
 ### Additional Resources
 
