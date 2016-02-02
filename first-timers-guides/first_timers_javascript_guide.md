@@ -10,7 +10,7 @@ You should review the [HTML & CSS First Timer's Guide](https://github.com/womenw
 * A programming language that can carry out operations, functions, and calculations
 * Create sliders, quizzes, dynamic forms, alert boxes, and modal dialogs on websites
 * JavaScript files have a `.js` file extension, for example, `main.js`
-* A web site or web application can have one or multiples `.js` files
+* A web site or web application can have one or multiple `.js` files
 * JavaScript is NOT Java
 
 ## Guide Overview
@@ -26,8 +26,6 @@ This guide will teach you the following concepts:
 * Event handlers
 * Alert boxes
 * Logging to the console
-
-For this guide, We are going to show you how to attach or add Javascript to an HTML/CSS page in order to make two things happen. First, get a button to reveal text when clicked, second get an alert box to pop up and third log a message to the Javascript console (more on this later).  
 
 ## Setting Up Your Files
 
@@ -68,7 +66,7 @@ body {
 }
 ```
 
-The above CSS sets the background color to #D3D3D3, the hexadecimal value for `lightgrey` and changes all text to a modern sans-serif font.
+The above CSS sets the background color to `#D3D3D3`, the hexadecimal value for `lightgrey` and changes all text to a modern sans-serif font.
 
 Refresh your `index.html` page to verify the new styles before moving on to the next steps of the guide.
 
@@ -174,11 +172,11 @@ In our `main.js` file, we created a variable called `text` (`var text`) that con
 
 We can use the JavaScript console in our browser's web development tools to check the value of JavaScript variables. Though web developer tools exist in Firefox, Safari, and Internet Explorer/Edge, we will be using Google Chrome for this example as it works well on all operating systems. 
 
-In Google Chrome, type `ctrl + shift + J` (Windows, Linix, or Chromebook) or `cmd + opt + J` (Mac) to open the JavaScript console.
+In Google Chrome, type `ctrl + shift + J` (Windows, Linux, or Chromebook) or `cmd + opt + J` (Mac) to open the JavaScript console.
 
 ![Google Chrome JavaScript console](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/ChromeBlankConsole.png)
 
-Copy and paste `var text = document.getElementById("text");` into the console window and press enter. You should see the text `undefined` - this is OK. Then type `text` and press enter - this examines the content of the `text` variable. Click on the arrow next to `div` to expand it - you should see the entire `div` element with our top secret element.
+Copy and paste `var text = document.getElementById("text");` into the console window and press enter. You should see the text `undefined` - this is OK. Then type `text` and press enter - this examines the content of the `text` variable. Click on the arrow next to `div` to expand it - you should see the entire `div` element with our top secret paragraph.
 
 ![Div element in Developer Tools](https://raw.githubusercontent.com/womenwhocodedc/front-end-community/master/assets/js-first-timers-guide/DivTextConsole.png)
 
@@ -240,7 +238,7 @@ function showText() {
 }
 ```
 
-Functions are the heart and soul of JavaScript but are still quite complicated! Whole books have been devoted just to explaining functions in JavaScript. Do not get discouraged if you do not understand JavaScript functions yet - they take practice. Right now it's more important to know function syntax and that they are used to repeat blocks of code.
+Functions are the heart and soul of JavaScript but are still quite complicated! Whole books have been devoted to explaining functions in JavaScript. Do not get discouraged if you do not understand JavaScript functions yet - they take practice. Right now it's more important to know function syntax and that they are used to repeat blocks of code.
 
 ## Extras
 
