@@ -5,12 +5,12 @@
 This is a space where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Every study group will have the following format:
 
 * 6:30pm  - Begin
-* 6:40 - 6:50pm - Quick Introductions 
+* 6:40 - 6:50pm - Quick Introductions
 * 6:50 - 8:00pm - CODE!
 * 8:00 - 8:20pm - Lightning Talk (a quick presentation or talk) (if planned)
-* 8:20 - 8:30pm - Wrap Up 
+* 8:20 - 8:30pm - Wrap Up
 
-All events are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Monday 6:30-08:30 pm. 
+All events are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Monday 6:30-08:30 pm.
 
 ## What if I'm a first timer that's never coded before?
 
@@ -23,9 +23,9 @@ We super encourage you to attend the study group, work on a personal project or 
 ### Resources/Study Guides
 Please refer to these guidelines.
 
-* First timer's guide: http://bit.ly/first-timers-guide
-* HTML Study Guide: http://bit.ly/html-study-guide
-* JavaScript Study Guide: http://bit.ly/js-study-guide
+* First timer's guide: http://bit.ly/fehn-first-timers
+* HTML Study Guide: http://bit.ly/fehn-html-guide
+* JavaScript Study Guide: http://bit.ly/fehn-js-guide
 
 ### Lightning Talk Possible Topics
 
@@ -62,6 +62,6 @@ Certain building managements requires meetup hosts to let people in and do not e
 
 This study group is intended to be exclusively open for any who identify as women; we are transgender friendly.
 
-Happy coding! :) 
+Happy coding! :)
 
 ![alt tag](http://www.barbarianmeetscoding.com/images/i-know-javascript.jpg)
