@@ -9,9 +9,9 @@ Women Who Code DC is looking forward to any additions to this repository! Here a
 3. Add your changes to your repo using the regular Git commands (`git add/rm` and `git commit`), then push to *your feature branch* `git push origin lastName_myFeature`.
 
 4. Your feature branch will be visible on the main repository page, like so:
-[SCREENSHOT COMING SOON]
+![alt text](https://github.com/womenwhocodedc/front-end-community/raw/master/assets/wwcpr.png "pull request view")
 
-5. Create a pull request (PR), and be sure to reference @womenwhocodedc/front-end-leads and @nupurkapoor in your PR comment. Also be sure to reference the issue number in your PR if you are trying to fix an issue.
+5. Create a pull request (PR) by clicking on "Compare & pull request", and be sure to reference @womenwhocodedc/front-end-leads, @alulsh, and @kdmcclin in your PR comment. Also be sure to reference the issue number in your PR if you are trying to fix an issue.
 
 6. If everything looks good, the reviewer will merge your PR into the master branch and delete your feature branch. And then your changes will be in the main repository! However...
 
