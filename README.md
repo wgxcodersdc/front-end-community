@@ -14,7 +14,7 @@ All events are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-D
 
 ## What if I'm a first timer that's never coded before?
 
-Check out our Guide to [front end for first timers](https://github.com/womenwhocodedc/front-end-community/blob/master/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
+Check out our Guide to [front end for first timers](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
 
 ## What if I'm a web development pro?
 
