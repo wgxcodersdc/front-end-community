@@ -25,9 +25,9 @@ For the First Timer's night, create a section for attendees to sign up for the H
 
 Welcome to WWCDC Front End Lab!
 
-Sign up for Slack - http://bit.ly/womenwhocodedcslack
-About Front End Lab - http://bit.ly/frontendhacknight
-HTML/CSS First Timer's Guide - https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md
-JavaScript First Timer's Guide - https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md
+* Sign up for Slack - http://bit.ly/womenwhocodedcslack
+* About Front End Lab - http://bit.ly/fehn-community
+* HTML/CSS First Timer's Guide - http://bit.ly/fehn-first-timers
+* JavaScript First Timer's Guide - http://bit.ly/first-timers-js
 
 Sign in with your name, website/Github/Twitter, and what you want to work on tonight!
