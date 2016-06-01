@@ -11,6 +11,7 @@ This is a checklist of what every lead should know/have access to for every Fron
 * Add as attendee for Google Calendar events
 * Add to Trello
 * Make an organizer on Meetup
+* Add to this repo's contribution team
 
 ### Publicity
 Announce on:
