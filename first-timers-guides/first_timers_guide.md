@@ -2,7 +2,7 @@
 
 ## What's a "front end"?
 
-The "front end" is the user or "front" facing portion of a website or web application. This is also called the "client-side" of a website, with the web browser (e.g. Chrome, Firefox, Internet Explorer) being the "client." Users interact with the information, elements, controls, and graphics on the "front" of an application. 
+The "front end" is the user or "front" facing portion of a website or web application. This is also called the "client-side" of a website, with the web browser (e.g. Chrome, Firefox, Internet Explorer) being the "client." Users interact with the information, elements, controls, and graphics on the "front" of an application.
 
 The following aspects make up the front end of an application:
 
@@ -12,7 +12,7 @@ The following aspects make up the front end of an application:
 
 * Development - the HTML, CSS, and JavaScript code interpreted by a web browser to create the front end
 
-This guide focuses on the development aspect of the front end, or front end development. 
+This guide focuses on the development aspect of the front end, or front end development.
 
 Front end developers may work on teams with web designers and UI/UX professionals or they may work solo. If they work alone they may have to integrate aspects of web and UI/UX into their development work. If they work on a team, then the web designer will create a mock up of the site using Adobe Photoshop or a similar tool. The front end developer will then convert the design into HTML, CSS, and JavaScript code that will load in a web browser. The UI/UX specialist will work at all stages of the process to make sure the site design, layout, and information make sense for the user or customer.
 
@@ -22,7 +22,7 @@ By contrast, the user never directly interacts with the "back end" or "server-si
 
 ## What tools do I need to get started with front end development?
 
-* A computer running Windows, Mac OSX, Linux, or Chrome OS 
+* A computer running Windows, Mac OSX, Linux, or Chrome OS
 
 * A web browser such as Google Chrome, Mozilla Firefox, or Microsoft Internet Explorer
 
@@ -37,14 +37,14 @@ Content (HTML), presentation (CSS), and behavior (JavaScript) make up the three 
 ![web-layers](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/09/1409729756css_three-layers.png)
 
 ### 1. HTML (Hyper Text Markup Language)
-HTML is used for the content layer of the web. It is used to lay out or "mark up" the content of a web page. Content primarily consists of text but may also include images, links, animations, sound, video, and forms. HTML is the digital equivalent of traditional markup notation in printing and publishing. 
+HTML is used for the content layer of the web. It is used to lay out or "mark up" the content of a web page. Content primarily consists of text but may also include images, links, animations, sound, video, and forms. HTML is the digital equivalent of traditional markup notation in printing and publishing.
 
 HTML code is made up of elements. For example, the `p` element is used to mark up a paragraph of text. Elements consist of opening (`<p>`) and closing (`</p>`) tags using angle brackets. Some elements, notably the `img` element for images, may be self closing (`<img />`).
 
-The extension for an HTML file is `.html`. The conventional name for the default or main page of a website is `index.html`. 
+The extension for an HTML file is `.html`. The conventional name for the default or main page of a website is `index.html`.
 
 ### 2. CSS (Cascading Style Sheets)
-CSS is used for the presentation layer of the web. It defines a web site's colors, backgrounds, fonts, and layout. 
+CSS is used for the presentation layer of the web. It defines a web site's colors, backgrounds, fonts, and layout.
 
 CSS syntax selects one or more HTML elements on a page, then sets styles on various element attributes (or properties) within curly brackets. The example CSS below sets paragraph elements to be blue with a Times New Roman or other serif font.
 
@@ -55,27 +55,27 @@ p {
 }
 ````
 
-A CSS document is called a stylesheet and has a `.css` file extension. A website can have one or multiple stylesheets. Common conventional file names include `styles.css` or `main.css`. 
+A CSS document is called a stylesheet and has a `.css` file extension. A website can have one or multiple stylesheets. Common conventional file names include `styles.css` or `main.css`.
 
 ### 3. JavaScript (JS)
 
 JavaScript is used for the behavior layer of the web. While HTML and CSS are markup languages that determine structure and presentation, JavaScript is a programming language that can carry out operations, functions, and calculations. JavaScript can be used to create sliders, quizzes, dynamic forms, alert boxes, and modal dialogs. It can also detect clicks or mouse hovers from users and then dynamically change HTML elements on a page. Complex web applications, such as Gmail and Facebook, heavily rely on JavaScript for their interactive functionality.
 
-This guide will focus primarily on HTML and CSS. HTML and CSS should be mastered first before tackling JavaScript, as client-side JavaScript requires excellent knowledge of HTML elements and the Document Object Model (DOM). 
+This guide will focus primarily on HTML and CSS. HTML and CSS should be mastered first before tackling JavaScript, as client-side JavaScript requires excellent knowledge of HTML elements and the Document Object Model (DOM).
 
-The extension for a JavaScript file is `.js`. A website can have one or multiple JavaScript files. 
+The extension for a JavaScript file is `.js`. A website can have one or multiple JavaScript files.
 
-Note: JavaScript and Java are two different programming languages. 
+Note: JavaScript and Java are two different programming languages.
 
 ## Separation of Content, Presentation, and Behavior
 
-While HTML, CSS, and JavaScript can all be combined in the same `.html` file, ideally they should be separated into three or more files - one for each language. This makes maintaining your code - especially when dealing with multiple web pages on a large web site - much easier. 
+While HTML, CSS, and JavaScript can all be combined in the same `.html` file, ideally they should be separated into three or more files - one for each language. This makes maintaining your code - especially when dealing with multiple web pages on a large web site - much easier.
 
 ## Intro to HTML
 
 ### Basic HTML Elements
 
-HTML documents are made up of HTML elements that define the content and structure of a web page. Content includes text, images, media, and links. 
+HTML documents are made up of HTML elements that define the content and structure of a web page. Content includes text, images, media, and links.
 
 Commonly used HTML elements:
 
@@ -94,9 +94,9 @@ As you may have noticed, all elements are identified by the use of less than and
 
 ### Tags
 
-HTML elements are usually composed of pairs of opening and closing tags. 
+HTML elements are usually composed of pairs of opening and closing tags.
 
-An *opening tag* marks the beginning of an element. It consists of a less than sign followed by an element’s name, and then ends with a greater than sign - for example, `<p>`. 
+An *opening tag* marks the beginning of an element. It consists of a less than sign followed by an element’s name, and then ends with a greater than sign - for example, `<p>`.
 
 A *closing tag* marks the end of an element. It consists of a less than sign followed by a forward slash and the element’s name, and then ends with a greater than sign - for example, `</p>`. Below is a sample paragraph element with both opening and closing tags.
 
@@ -106,13 +106,13 @@ Some HTML elements may only require one self-closing tag, for example the line b
 
 ### Attributes
 
-HTML elements can have properties called attributes that provide additional information. 
+HTML elements can have properties called attributes that provide additional information.
 
-Attributes are defined within the opening tag, after an element’s name. Attributes are composed of a name, equal sign (`=`), and value. For example, the `href` attribute ("hyperlink reference") of an `a` element describes the website address (URL) of an anchor or link element. 
+Attributes are defined within the opening tag, after an element’s name. Attributes are composed of a name, equal sign (`=`), and value. For example, the `href` attribute ("hyperlink reference") of an `a` element describes the website address (URL) of an anchor or link element.
 
 `<a href='http://wwww.google.com/'>Google</a>`
 
-The `id` and `class` attributes for HTML elements are important when learning CSS to style HTML. The `id` attribute is used to uniquely identify one element on a page (in order to apply a style to a single element), whereas the `class` attribute can be used to style multiple HTML elements. 
+The `id` and `class` attributes for HTML elements are important when learning CSS to style HTML. The `id` attribute is used to uniquely identify one element on a page (in order to apply a style to a single element), whereas the `class` attribute can be used to style multiple HTML elements.
 
 ### Practice Exercise - Hello, World!
 
@@ -132,7 +132,7 @@ Let's create your first HTML page.
 </html>
 ````
 
-3. Inside the `<head>` element, add `<meta>` and `<title>` elements. Our `<meta>` element below defines the [character encoding](http://techterms.com/definition/characterencoding) (how computers understand text) of our HTML document. The `<title>` tag sets the title of the page in the window or tab of our browser.  
+3. Inside the `<head>` element, add `<meta>` and `<title>` elements. Our `<meta>` element below defines the [character encoding](http://techterms.com/definition/characterencoding) (how computers understand text) of our HTML document. The `<title>` tag sets the title of the page in the window or tab of our browser.
 
 ```
 <!DOCTYPE html>
@@ -162,7 +162,7 @@ Let's create your first HTML page.
 </html>
 ```
 
-5. Open your page in your web browser. Locate your `index.html` file and double click on it to open it. It should open with the default web browser on your computer You can also use the file open or open with option in your browser menu. 
+5. Open your page in your web browser. Locate your `index.html` file and double click on it to open it. It should open with the default web browser on your computer You can also use the file open or open with option in your browser menu.
 
 This is how `index.html` looks in Sublime Text:
 
@@ -309,9 +309,9 @@ Now that you've built your first web page, use Women Who Code DC's study groups 
 * [Khan Academy - HTML + CSS + JS](https://www.khanacademy.org/computing/computer-programming/html-css-js)
 
 #### Front End Study Guides
-* [HTML Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/html_study_guide.md)
-* [CSS Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/CSS_study_guide.md)
-* [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/javascript_study_guide.md)
+* [HTML Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md)
+* [CSS Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md)
+* [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md)
 
 #### Keep in touch!
 * Come to our [Meetups](http://www.meetup.com/Women-Who-Code-DC/).
