@@ -55,7 +55,7 @@ Lynda.com videos are free with a [DC Public Library card](http://dclibrary.org/n
 You know HTML and CSS and are ready to start adding interactivity to your web pages.
 
 #### Recommended Resources
-* [CodeAcademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript) - :computer: - 10 hours - Free
+* [Codecademy JavaScript Track](http://www.codecademy.com/en/tracks/javascript) - :computer: - 10 hours - Free
 * [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) - :computer: - KhanAcademy - Free
 * [Head First JavaScript Programming](http://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - :books: :computer: :moneybag: - $24 (e-book) or $35 for print on Amazon - [Available on Safari Books](https://www.safaribooksonline.com/) - [Free sample chapter](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449340131_sampler.pdf)
 * [JavaScript For Cats](http://jsforcats.com/) - :page_facing_up: :computer: - "An introduction for new programmers. So easy your human companion could do it too!"
