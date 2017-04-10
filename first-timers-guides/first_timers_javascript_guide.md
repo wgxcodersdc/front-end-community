@@ -156,7 +156,7 @@ You could create a variable called `myAge` and give it value of `18`.
 
 You could then do mathematical operations with this variable:
 
-`var oldAge = myage + 100`
+`var oldAge = myAge + 100`
 
 This would return a value of `118` for the `oldAge` variable.
 
