@@ -4,7 +4,7 @@ Su Kim schedules the time and location of each event, but each Front End Lab lea
 
 Front End Lab is always from 6:30 pm to 8:30 pm every Monday, except holidays.
 
-Due to privacy concerns, contact Su Kim for host contact (e.g. name, cellphone number), building access policy, and refreshments information. Do not publish on Github. 
+Due to privacy concerns, contact Su Kim for host contact (e.g. name, cellphone number), building access policy, and refreshments information. Do not publish on Github.
 
 ## First Monday
 * Company: [iStrategy Labs, Inc.](https://isl.co/)
@@ -20,10 +20,7 @@ Due to privacy concerns, contact Su Kim for host contact (e.g. name, cellphone n
 * Rough capacity: 200+
 
 ## Third Monday
-* Company: [ECMC Innovation Lab](http://www.idealist.org/view/nonprofit/Dg9NCGNZpcH4/)
-* Address: 1015 7th St NW, Washington, DC 20001
-* Closest Metro: Mount Vernon Square (Green/Yellow)
-* Rough capacity: 30+
+* Searching for third host
 
 ## Fourth Monday
 * Company: [Socrata](https://www.socrata.com/)
@@ -31,9 +28,8 @@ Due to privacy concerns, contact Su Kim for host contact (e.g. name, cellphone n
 * Closest Metro: Dupont Circle (Red)
 
 ## Fifth Monday
-Some months will have a fifth Monday - check each month and schedule these well in advance in order to avoid being surprised. Our usual fifth night host is RepEquity.
+Some months will have a fifth Monday - check each month and schedule these well in advance in order to avoid being surprised. Our usual fifth night host is Deloitte Digital.
 
-* Company: [RepEquity](http://www.repequity.com/)
-* Address: 1211 Connecticut Ave NW Suite 250, Washington, DC 20036
-* Closest Metro: Dupont Circle (Red) or Farragut North (Red)
-* Rough capacity: 60+
+* Company: [Deloitte Digital](http://www.deloittedigital.com/us/)
+* Address: 1919 N. Lynn Street Arlington, VA 22209
+* Closest Metro: Rosslyn (Orange/Silver/Blue)
