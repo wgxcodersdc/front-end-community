@@ -4,7 +4,7 @@ This is a checklist of what every lead should know/have access to for every Fron
 * Slack - Make an admin; grant access to the following channels
  * All Leads
  * Study Group Leads
- * Front End Hack Night Leads
+ * Front End Lab Leads
 * Google Drive
 * WWCDC email + password: wwcodedc@gmail.com
 * Welcome email to hosts for logistics
@@ -29,6 +29,6 @@ Announce on:
  * Post a comment in meetup for everybody about logistics
 * Google sheet with all the codeshares
  * add all the existing ones
-* Document FEHN Standard Operating Procedure
+* Document FEL Standard Operating Procedure
 * Important Documents
  * First Timer’s Guides: HTML/CSS
