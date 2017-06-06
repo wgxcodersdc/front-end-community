@@ -20,7 +20,7 @@
   * Slack - grant access to the following channels
   * All Leads
   * Language Leads
-  * Ruby on Rails Leads
+  * Front End Leads
   * Hosts
 * Later, once committment is confirmed:
   * Make admin on Slack
