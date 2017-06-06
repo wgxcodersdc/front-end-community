@@ -44,12 +44,12 @@ Announce on:
   * Email number of RSVPs/names for security
 * Day of the event
   * Post a comment in meetup for everybody about logistics (who/how to contact if you can't get in, any slides you have prepared, etc.)
-* Important Documents
-  *[First Timer's Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md)
-  *[First Timer's JavaScript Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md)
-  *[CSS Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md)
-  *[HTML Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md)
-  *[JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md)
-  *[Front End Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/front_end_guide.md)
-  *[Learn Angular JS](https://github.com/womenwhocodedc/front-end-community/blob/master/learn_angularjs.md)
+* Important Documents:
+  * [First Timer's Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md)
+  * [First Timer's JavaScript Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_javascript_guide.md)
+  * [CSS Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/CSS_study_guide.md)
+  * [HTML Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/html_study_guide.md)
+  * [JavaScript Study Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/study-guides/javascript_study_guide.md)
+  * [Front End Guide](https://github.com/womenwhocodedc/front-end-community/blob/master/front_end_guide.md)
+  * [Learn Angular JS](https://github.com/womenwhocodedc/front-end-community/blob/master/learn_angularjs.md)
   
