@@ -7,7 +7,11 @@ h1, h2, p {
   font-family: Arial, sans-serif;
 }
 
-h1, h2 {
+h1 {
+  color: #008B8B;
+}
+
+h2 {
   color: #1BA39C;
 }
 
