@@ -1,0 +1,20 @@
+body {
+  padding: 20px;
+  color: #ececec;
+}
+
+h1, h2, p {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #008B8B;
+}
+
+h2 {
+  color: #1BA39C;
+}
+
+p, label {
+  color: #4F5A65;
+}
