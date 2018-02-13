@@ -110,7 +110,7 @@ HTML elements can have properties called attributes that provide additional info
 
 Attributes are defined within the opening tag, after an element’s name. Attributes are composed of a name, equal sign (`=`), and value. For example, the `href` attribute ("hyperlink reference") of an `a` element describes the website address (URL) of an anchor or link element.
 
-`<a href='http://wwww.google.com/'>Google</a>`
+`<a href='http://www.google.com/'>Google</a>`
 
 The `id` and `class` attributes for HTML elements are important when learning CSS to style HTML. The `id` attribute is used to uniquely identify one element on a page (in order to apply a style to a single element), whereas the `class` attribute can be used to style multiple HTML elements.
 
