@@ -3,16 +3,16 @@ For special events such as tech talks, panels, etc. outside of usual lab nights 
 
 ## To-Do's
 * Secure a date, time, and venue (regular Monday nights or Thursday nights are best for language events)
- * Coordinate with Su for hosts/refreshments information
+ * Coordinate with Erin/Hilliary for hosts/refreshments information
 * Post an event on Meetup page
  * Check maximum capacity of venue and enforce limit on Meetup event
  * Respond to comments promptly
 * Confirm who will be participating in the event (Panel? Guest speaker? Forum? Roundtable?)
 
 ## Contacts for event planning
-* Lauren: planning overall WWC events (including event collabs with other meetups); also adding event/viewing access to WWC general Meetup calendar to avoid event clashes
-* Su: finding hosts for the event
-* Pam: coordinating general "Tech Talk Thursday" events
+* Katherine/Victoria: planning overall WWC events (including event collabs with other meetups); also adding event/viewing access to WWC general Meetup calendar to avoid event clashes
+* Erin/Hilliary: finding hosts for the event
+* Pearl: coordinating general "Tech Talk Thursday" events
  * Good topics for these types of events include things that mix front end tech with other types of tech (ie React Native, Clojurescript, etc.)
 
 ## Responsibilities during event
