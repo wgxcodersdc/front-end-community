@@ -1,4 +1,4 @@
-# WWCDC JavaScript First Timer's Guide
+# WGXCDC JavaScript First Timer's Guide
 
 This guide is for people who understand the basics of HTML and CSS and want an introduction to Javascript. 
 
@@ -31,7 +31,7 @@ This guide will teach you the following concepts:
 
 ### Project Folder
 
-Create a folder for this project called `wwcdc-javascript` - this will host all of the files for this lesson, including `index.html`, `styles.css`, and `main.js`.
+Create a folder for this project called `WGXCdc-javascript` - this will host all of the files for this lesson, including `index.html`, `styles.css`, and `main.js`.
 
 ### HTML Page - `index.html`
 
@@ -42,7 +42,7 @@ Let's create a basic HTML file that will eventually host our JavaScript. Open up
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>WWCDC JavaScript First Timer's Guide</title>
+        <title>WGXCDC JavaScript First Timer's Guide</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
@@ -57,7 +57,7 @@ Our `index.html` file will be using an external stylesheet called `styles.css`.
 
 ### External Stylesheet - `styles.css`
 
-Create a file called `styles.css` in the `wwcdc-javascript` folder and type in the following CSS:
+Create a file called `styles.css` in the `WGXCdc-javascript` folder and type in the following CSS:
 
 ```
 body {
@@ -118,7 +118,7 @@ The entire code for your `index.html` should look like the following:
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>WWCDC JavaScript First Timer's Guide</title>
+        <title>WGXCDC JavaScript First Timer's Guide</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
@@ -301,7 +301,7 @@ Check out our [JavaScript Study Guide](https://github.com/womenwhocodedc/front-e
 ### Keep in touch!
 * Meet with us via [Meetup](http://www.meetup.com/Women-Who-Code-DC/).
 * [Tweet](https://twitter.com/WomenWhoCodeDC) us.
-* Email us - WWCodeDC@gmail.com
+* Email us at organizers@wgxcodersdc.org
 * Check us out on [Github](https://github.com/womenwhocodedc).
 * Check out our [website](http://womenwhocodedc.github.io/).
 * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.

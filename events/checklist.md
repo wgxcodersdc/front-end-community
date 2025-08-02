@@ -10,7 +10,7 @@ For special events such as tech talks, panels, etc. outside of usual lab nights 
 * Confirm who will be participating in the event (Panel? Guest speaker? Forum? Roundtable?)
 
 ## Contacts for event planning
-* Katherine/Victoria: planning overall WWC events (including event collabs with other meetups); also adding event/viewing access to WWC general Meetup calendar to avoid event clashes
+* Katherine/Victoria: planning overall WGXC events (including event collabs with other meetups); also adding event/viewing access to WGXC general Meetup calendar to avoid event clashes
 * Erin/Hilliary: finding hosts for the event
 * Pearl: coordinating general "Tech Talk Thursday" events
  * Good topics for these types of events include things that mix front end tech with other types of tech (ie React Native, Clojurescript, etc.)

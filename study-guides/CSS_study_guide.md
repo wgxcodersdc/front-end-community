@@ -13,7 +13,7 @@ So, if you’re reading this, I’m assuming you’ve got a handle on HTML and a
 * :first_quarter_moon: - Intermediate
 * :full_moon_with_face: - Advanced
 
-Thankfully, there are a ton of resources at your disposal.  Here are some that we at Women Who Code D.C. recommend.
+Thankfully, there are a ton of resources at your disposal.  Here are some that we at Women and Gender eXpansive Coders D.C. recommend.
 If you haven’t been introduced to the resource legends that we are using to label and direct you to the resource that is best for you based on learning style and complexity, here is a recap:
 
 According to[http://www.learning-styles-online.com/][1], [http://www.learning-styles-online.com/][2], [http://www.educationplanner.org/][3], and Wikipedia (yes I used Wikipedia, there were like 30 different sources so I think it’s safe), there are three basic learning styles. They are:

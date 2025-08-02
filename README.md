@@ -1,5 +1,6 @@
 # Front End Language Community
 
+*This repo is preserved in case this subgroup is revived - Aug 2025*
 ## What is this community for?
 
 This is a space where women can come together and help each other learn and understand web development. We welcome devs of all levels and encourage those with more experience to help out those that are just starting. There's always at least one mentor/leader present to help you with best practices or to guide you through if you are stuck with a nasty problem! Every study group will have the following format:
@@ -10,11 +11,11 @@ This is a space where women can come together and help each other learn and unde
 * 8:00 - 8:20pm - Lightning Talk (a quick presentation or talk) (if planned)
 * 8:20 - 8:30pm - Wrap Up
 
-All events are scheduled via our [Meetup](http://www.meetup.com/Women-Who-Code-DC/) page. We meet every Monday 6:30-08:30 pm.
+All events are scheduled via our [Meetup](http://www.meetup.com/women-and-gender-expansive-coders-dc-wgxc-dc/) page. We meet every Monday 6:30-08:30 pm.
 
 ## What if I'm a first timer that's never coded before?
 
-Check out our Guide to [front end for first timers](https://github.com/womenwhocodedc/front-end-community/blob/master/first-timers-guides/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
+Check out our Guide to [front end for first timers](first-timers-guides/first_timers_guide.md), that also contains information on how to learn about coding. Go through the recommended resources and ask lots of questions!
 
 ## What if I'm a web development pro?
 
@@ -23,9 +24,9 @@ We super encourage you to attend the study group, work on a personal project or 
 ### Resources/Study Guides
 Please refer to these guidelines.
 
-* First timer's guide: http://bit.ly/fehn-first-timers
-* HTML Study Guide: http://bit.ly/fehn-html-guide
-* JavaScript Study Guide: http://bit.ly/fehn-js-guide
+* [First timer's guide](first-timers-guides/first_timers_guide.md)
+* [HTML Study Guide](study-guides/html_study_guide.md)
+* [JavaScript Study Guide](study-guides/javascript_study_guide.md)
 
 ### Lightning Talk Possible Topics
 
@@ -44,7 +45,7 @@ Leads are present to facilitate the study group. They help find hosts, schedule 
 
 ### Can I be a lead?
 
-YES! We are always looking for more leads and if you're interested in getting involved in Women Who Code in any capacity talk to one of the leads present!
+YES! We are always looking for more leads and if you're interested in getting involved in Women and Gender eXpansive Coders in any capacity talk to one of the leads present!
 
 ### How can I contribute without being a lead?
 
@@ -52,15 +53,15 @@ We need lots of help coordinating events. If you want to help out please let us 
 
 ### Slack
 
-The WWC-DC community uses Slack to keep in touch, share resources, and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to sign up here:  http://bitly.com/womenwhocodedcslack (and read our guide if you need more help - http://bit.ly/slackguide)
+The WGXC DC community uses Slack to keep in touch, share resources, and chat about all things tech. You can use Slack to ask troubleshooting questions or general questions about coding (in any language) and the tech industry. We encourge you to [sign up here](https://forms.gle/p6KYBpxSMoq3CvQU8) and [read our Slack guide if you need more help.](http://bit.ly/slackguide)
 
 ### Building Access
 
 Certain building managements requires meetup hosts to let people in and do not encourage them being contacted. Please respect the policy, in case the location requires access to the building contact the group lead if information is provided, or drop a comment on the meetup page. We'll come and get you.
 
-#### All Women Welcome
+### Empowering Women and Non-binary Voices
 
-This study group is intended to be exclusively open for any who identify as women; we are transgender friendly.
+Women and Gender eXpansive Coders DC events are primarily intended to create an empowering and supportive space for women and non-binary individuals to find community, learn new technical concepts, and expand their coding and technical skills. We welcome allies, but we ask that they remain mindful of the events’ focus in creating an inclusive environment where women and non-binary participants can connect and fully express themselves.
 
 Happy coding! :)
 

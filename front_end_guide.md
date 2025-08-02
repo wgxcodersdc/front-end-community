@@ -1,6 +1,6 @@
-# Women Who Code DC Front End Resources
+# Women and Gender eXpansive Coders DC Front End Resources
 
-## WWC DC Learning Choices
+## WGXC DC Learning Choices
 You will get the most out of our meetups if you follow one of our suggested resources. These are the classes/books/resources that our members know the best and can offer the most support for.
 
 We will not assist with work problems. We are here to help you learn the skills that will help you solve work problems, but asking about work related problems derails the productivity of everyone at the event. Repeated requests for solutions to work problems will result in our leaders asking you to leave.

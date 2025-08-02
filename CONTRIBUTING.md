@@ -1,5 +1,5 @@
 # Contributing to the front-end-community repository
-Women Who Code DC is looking forward to any additions to this repository! Here are the steps on how to get started with contributions:
+Women and Gender eXpansive Coders DC is looking forward to any additions to this repository! Here are the steps on how to get started with contributions:
 
 1. First, check with any of the @womenwhocodedc/front-end-leads regarding permissions to write to the repository. Once you have write permissions, clone the repository:
 `git clone git@github.com:womenwhocodedc/front-end-community.git`

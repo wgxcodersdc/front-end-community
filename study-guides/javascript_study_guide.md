@@ -1,4 +1,4 @@
-# Women Who Code DC - Front End Language Community
+# Women and Gender eXpansive Coders DC - Front End Language Community
 ## JavaScript Study Guide
 
 ### What is JavaScript?

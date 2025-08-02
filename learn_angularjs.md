@@ -1,4 +1,4 @@
-Women Who Code DC | Angular JS
+Women and Gender eXpansive Coders DC | Angular JS
 ===============================
 
 What is AngularJS ?

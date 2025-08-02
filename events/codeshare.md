@@ -2,12 +2,12 @@
 
 ## Role of CodeShare
 
-At Women Who Code DC, we use CodeShares to sign in attendees and share relevant links and events at each session. This allows us to quickly share links and other resources with attendees who have not joined Slack yet.
+At Women and Gender eXpansive Coders DC, we use CodeShares to sign in attendees and share relevant links and events at each session. This allows us to quickly share links and other resources with attendees who have not joined Slack yet.
 
 ## How to Create a Codeshare
 
 1. Visit http://codeshare.io/
-2. Login in with the WWCDC account (ask leads in Slack for info)
+2. Login in with the WGXCDC account (ask leads in Slack for info)
 3. Give the CodeShare a name with the date, e.g. "Front End Lab - Monday, March 7th, 2016"
 4. Copy and paste the CodeShare Text into the blank CodeShare
 5. Write the CodeShare URL on the whiteboard to share awith attendees
@@ -23,7 +23,7 @@ For the First Timer's night, create a section for attendees to sign up for the H
 
 ## CodeShare Text
 
-Welcome to WWCDC Front End Lab!
+Welcome to WGXCDC Front End Lab!
 
 * Sign up for Slack - http://bit.ly/womenwhocodedcslack
 * About Front End Lab - http://bit.ly/fehn-community

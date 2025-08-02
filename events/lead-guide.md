@@ -1,6 +1,6 @@
 # Front End Lead Guide
 
-Most of the leadership documents live in the main WWCDC [organization repo](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources). We're currently in the process of reorganizing it, but if you start with the README you'll be linked to the rest of the documents.
+Most of the leadership documents live in the main WGXCDC [organization repo](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources). We're currently in the process of reorganizing it, but if you start with the README you'll be linked to the rest of the documents.
 
 However, each group has certain things they do a little bit differently or different resources they need for events.
 

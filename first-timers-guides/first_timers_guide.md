@@ -1,4 +1,4 @@
-# WWCDC Front End First Timer's Guide
+# WGXCDC Front End First Timer's Guide
 
 ## What's a "front end"?
 
@@ -157,7 +157,7 @@ Let's create your first HTML page.
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>I'm learning HTML and CSS at Women Who Code DC's Front End Hack Night first timer's night.</p>
+        <p>I'm learning HTML and CSS at Women and Gender eXpansive Coders DC's Front End Hack Night first timer's night.</p>
     </body>
 </html>
 ```
@@ -285,7 +285,7 @@ To add the external stylesheet to our HTML file, use a `link` element in the `he
     </head>
     <body>
         <h1>Hello World!</h1>
-        <p>I'm learning HTML and CSS at Women Who Code DC's Front End Hack Night first timer's night.</p>
+        <p>I'm learning HTML and CSS at Women and Gender eXpansive Coders DC's Front End Hack Night first timer's night.</p>
     </body>
 </html>
 ````
@@ -296,7 +296,7 @@ Open `index.html` again to see the CSS in action.
 
 ### Next Steps
 
-Now that you've built your first web page, use Women Who Code DC's study groups and resources to help you continue to learn to code!
+Now that you've built your first web page, use Women and Gender eXpansive Coders DC's study groups and resources to help you continue to learn to code!
 
 #### What should I do next?
 * [Install Git](http://git.huit.harvard.edu/guide/)
@@ -316,7 +316,7 @@ Now that you've built your first web page, use Women Who Code DC's study groups 
 #### Keep in touch!
 * Come to our [Meetups](http://www.meetup.com/Women-Who-Code-DC/).
 * Follow us on [Twitter](https://twitter.com/WomenWhoCodeDC) us.
-* Email us at WWCodeDC@gmail.com
+* Email us at organizers@wgxcodersdc.org
 * Check us out on [Github](https://github.com/womenwhocodedc).
 * Check out our [website](https://www.womenwhocode.com/dc).
 * Join our [Slack](https://docs.google.com/forms/d/1BXxIJuCawYt3pEzN7-6CgdT6XrhvG0KYQpOqdmv98DY/viewform) group.
